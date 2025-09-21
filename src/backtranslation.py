@@ -71,7 +71,7 @@ def backtranslate(string,
     while cosine_similarity < 1.0:
         translation = L1.translate(string)
         backtranslation = L2.translate(translation)
-        prompt, cosine_similarity = L3.evaluate(string, backtranslation)
+        prompt, cosine_similarity = L3.evaluate(string, translation, backtranslation)
 
         L1.guidelines = prompt  # Update guidelines for L1
         L3.guidelines = prompt  # Update guidelines for L3

@@ -11,9 +11,9 @@ def main():
     st.title("Backtranslation App")
 
     # LLM model selection
-    L1_llm_model = st.selectbox("Select L1 LLM Model:", ["llama3.2:1b", "moondream:1.8b", "orca-mini:3b"])
-    L2_llm_model = st.selectbox("Select L2 LLM Model:", ["llama3.2:1b", "moondream:1.8b", "orca-mini:3b"])
-    L3_llm_model = st.selectbox("Select L3 LLM Model:", ["llama3.2:1b", "moondream:1.8b", "orca-mini:3b"])
+    L1_llm_model = st.selectbox("Select L1 LLM Model:", ["llama3.2:1b", "phi3.5:3.8b", "deepseek-r1:1.5b"])
+    L2_llm_model = st.selectbox("Select L2 LLM Model:", ["llama3.2:1b", "phi3.5:3.8b", "deepseek-r1:1.5b"])
+    L3_llm_model = st.selectbox("Select L3 LLM Model:", ["llama3.2:1b", "phi3.5:3.8b", "deepseek-r1:1.5b"])
 
     # User inputs
     string = st.text_area("Enter the string to be backtranslated:")
