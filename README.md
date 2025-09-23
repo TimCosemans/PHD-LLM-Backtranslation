@@ -5,7 +5,17 @@ Inspired by recent work (Chung & Kim, 2025), we execute backtranslation by using
 
 We then ask a different LLM (L2) to perform the backtranslation (BT). These are both instructed to act like bilingual translators with subject matter expertise. 
 
-A third LLM (L3) is used to encode the original and the backtranslation to calculate the cosine similarity. If the cosine similarity is not one (perfect similarity), we instruct this LLM to provide feedback to the translator (L1) to make adaptations to the translations (TR). The process is repeated until the cosine similarity is one (Klotz et al., 2023).  
+A third LLM (L3) is used to encode the original and the backtranslation to calculate the cosine similarity. If the cosine similarity is not one (perfect similarity), we provide feedback to the translator (L1) to make adaptations to the translations (TR). The process is repeated until the cosine similarity is one (Klotz et al., 2023).  
+
+# Getting Started
+
+First build the Docker containers using 
+
+```
+docker-compose up --build
+```
+
+You either can use the Streamlit app (go to localhost:8501) or run the backtranslation directly by executing `test.py`.
 
 References
 

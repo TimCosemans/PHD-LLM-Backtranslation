@@ -9,7 +9,8 @@ def backtranslate(string,
                   expertise,
                   guidelines,
                   original_language,
-                  target_language): 
+                  target_language, 
+                  n_iterations=15): 
     
     """
     Performs backtranslation of the input string using three LLMs.
@@ -29,6 +30,7 @@ def backtranslate(string,
         guidelines (str): The initial guidelines for the translators.
         original_language (str): The language of the original string.
         target_language (str): The language to translate the original string to.
+        n_iterations (int): The maximum number of iterations to perform.
         
         
     Returns:
@@ -49,7 +51,7 @@ def backtranslate(string,
         ollama_client=ollama_client,
         llm_model=L2_llm_model,
         expertise=expertise,
-        guidelines='',
+        guidelines=guidelines,
         original_language=target_language,
         target_language=original_language
     ) # Independent backtranslator
@@ -66,21 +68,22 @@ def backtranslate(string,
     cosine_similarity = 0.0
     i = 0
 
-    results = pd.DataFrame(columns=['iteration', 'cosine_similarity', 'guidelines'])
+    results = pd.DataFrame(columns=['iteration', 'cosine_similarity', 'guidelines', 'translation'])
 
-    while cosine_similarity < 1.0:
+    while cosine_similarity < 1.0 or i < n_iterations:  # Limit to 15 iterations to avoid infinite loops
         translation = L1.translate(string)
         backtranslation = L2.translate(translation)
         prompt, cosine_similarity = L3.evaluate(string, translation, backtranslation)
 
-        L1.guidelines = prompt  # Update guidelines for L1
-        L3.guidelines = prompt  # Update guidelines for L3
+        new_guidelines = guidelines + "\n" + prompt
+
+        L1.guidelines = new_guidelines  # Update guidelines for L1
         i += 1
 
-        df_dictionary = pd.DataFrame([{'iteration': i, 'cosine_similarity': cosine_similarity, 'guidelines': L1.guidelines}])
+        df_dictionary = pd.DataFrame([{'iteration': i, 'cosine_similarity': cosine_similarity, 'guidelines': L1.guidelines, 'translation': translation}])
         results = pd.concat([results, df_dictionary], ignore_index=True)
         
         print(f"Iteration {i}: Cosine Similarity = {cosine_similarity}\n")
-        print(f"Guidelines for L1 and L3: {L1.guidelines}\n")
+        print(f"Guidelines for L1: {L1.guidelines}\n")
 
-    return translation, results
+    return results
