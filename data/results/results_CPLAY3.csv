@@ -1,0 +1,50 @@
+iteration,cosine_similarity,guidelines,translation
+1,0.6146780985912856,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Als ik computers gebruik, ben ik speels.
+'. 
+            This was backtranslated to 'As if I use computers, I play around with them.
+Smart Signal → Slim Signaal (translation provided separately)
+Slim Signaal → Smart Signal (translation provided separately)'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.61.
+            Please improve your current translation based on this information.","Als ik computers gebruik, ben ik speels.
+"
+2,0.7780479541437602,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Als ik computers gebruik, ben ik speels.'. 
+            This was backtranslated to 'I play with computers.
+Smart signal (in Dutch: Slim Signaal) is Smart signal (in English).
+
+(Note: The word ""signal"" does not typically have a direct opposite or vice versa; thus, 'smart' and 'slim' are used as adjectives here without antonymous meaning. If context suggests otherwise in the domain of technology adoption research, please provide additional details.)'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.78.
+            Please improve your current translation based on this information.","Als ik computers gebruik, ben ik speels."
+3,0.43706694291280757,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Als ik computers gebruik, ben ik levendig.'. 
+            This was backtranslated to 'As lively when I use computers.
+Smart signal (in Dutch: Slim Signaal) -> Smart signal (English: Smart Signal) or vice versa, as requested for bidirectional equivalence remains unchanged in this context since it is already a proper noun and does not require translation beyond language change from English to Dutch/Dutch back to English.
+Slim Signaal'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.44.
+            Please improve your current translation based on this information.","Als ik computers gebruik, ben ik levendig."
+4,0.6185755702935504,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Als ik computers gebruik, ben ik speels.'. 
+            This was backtranslated to 'As I use computers, I play.
+Smart signal (English) = Slim Signaal (Dutch)
+Slim Signaal (Dutch) = Smart signal (English)
+
+Output: As I use computers, I play.
+Smart signal (English) = Slim Signaal (Dutch)
+Slim Signaal (Dutch) = Smart signal (English)'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.62.
+            Please improve your current translation based on this information.","Als ik computers gebruik, ben ik speels."
+5,0.8542909744096991,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Als ik computers gebruik, ben ik speels.
+Slim Signaal (Engels) = Slim Signaal (Nederlands)
+Slim Signaal (Nederlands) = Smart signal (Engels)
+'. 
+            This was backtranslated to 'If I use computers, I play around with it.
+Slim Signaal (English) = Slim Signaal (Dutch)
+Slim Signaal (Dutch) = Smart signal (English)
+'Smart Signal' in English is 'Slim Signaal' in Dutch and vice versa.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.85.
+            Please improve your current translation based on this information.","Als ik computers gebruik, ben ik speels.
+Slim Signaal (Engels) = Slim Signaal (Nederlands)
+Slim Signaal (Nederlands) = Smart signal (Engels)
+"

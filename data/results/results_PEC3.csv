@@ -1,0 +1,28 @@
+iteration,cosine_similarity,guidelines,translation
+1,0.9614539168408425,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Gezien de middelen, kansen en kennis die nodig zijn om het Slim Signaal te gebruiken, zou het voor mij eenvoudig zijn om het Slim Signaal te gebruiken.'. 
+            This was backtranslated to 'Given the resources, opportunities, and knowledge required to use Smart Signal would make it simple for me to use Slim Signaal.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.96.
+            Please improve your current translation based on this information.","Gezien de middelen, kansen en kennis die nodig zijn om het Slim Signaal te gebruiken, zou het voor mij eenvoudig zijn om het Slim Signaal te gebruiken."
+2,0.9646637213530949,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Gezien de middelen, kansen en kennis die nodig zijn om het Slim Signaal te gebruiken, zou het voor mij gemakkelijk zijn om het Slim Signaal te gebruiken.'. 
+            This was backtranslated to 'Given the resources, opportunities, and knowledge needed to use Slim Signal, it would be easy for me to use Slim Signal.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.96.
+            Please improve your current translation based on this information.","Gezien de middelen, kansen en kennis die nodig zijn om het Slim Signaal te gebruiken, zou het voor mij gemakkelijk zijn om het Slim Signaal te gebruiken."
+3,0.8345538039546111,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Gezien de middelen, kansen en kennis die nodig zijn om het Slim Signaal te gebruiken, zou het voor mij eenvoudig zijn om het Slim Signaal te gebruiken.'. 
+            This was backtranslated to 'Given the resources, opportunities, and knowledge required to use Smart Signal would make it simple for me to use Slim Signaal. (Note: The term 'Smart Signal' is translated as 'Slim Signaal', which has been used consistently throughout this translation.)'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.83.
+            Please improve your current translation based on this information.","Gezien de middelen, kansen en kennis die nodig zijn om het Slim Signaal te gebruiken, zou het voor mij eenvoudig zijn om het Slim Signaal te gebruiken."
+4,0.9470596385236015,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Gezien de middelen, kansen en kennis die nodig zijn om het Slim Signaal te gebruiken, zou het voor mij gebruikelijk zijn om het Slim Signaal te gebruiken.'. 
+            This was backtranslated to 'Given the resources, opportunities, and knowledge required to use Slim Signal would be routine for me to use Slim Signal.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.95.
+            Please improve your current translation based on this information.","Gezien de middelen, kansen en kennis die nodig zijn om het Slim Signaal te gebruiken, zou het voor mij gebruikelijk zijn om het Slim Signaal te gebruiken."
+5,0.7820674044781358,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Gezien de middelen, kansen en kennis die nodig zijn om het Slim Signaal te gebruiken, zou het voor mij eenvoudig zijn om het Slim Signaal te gebruiken.'. 
+            This was backtranslated to 'Given the resources, opportunities, and knowledge required to use Smart Signal would make it straightforward for me to use Smart Signal.
+
+(Note: 'Smart Signal' is translated as 'Slim Signaal', which was used in place of its English equivalent within this context.)'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.78.
+            Please improve your current translation based on this information.","Gezien de middelen, kansen en kennis die nodig zijn om het Slim Signaal te gebruiken, zou het voor mij eenvoudig zijn om het Slim Signaal te gebruiken."

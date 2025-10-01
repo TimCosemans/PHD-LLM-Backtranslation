@@ -1,0 +1,29 @@
+iteration,cosine_similarity,guidelines,translation
+1,0.7600576469173008,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Hoewel het wellicht nuttig is, is het gebruik van het Slim Signaal zeker niet verplicht in mijn werk.'. 
+            This was backtranslated to '""While it may be useful, the use of the Slim Signal is certainly not mandatory in my work.""
+
+(Note: I translated ""Smart Signal"" to Dutch as 'Slim Signaal' for contextual accuracy within your request.)'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.76.
+            Please improve your current translation based on this information.","Hoewel het wellicht nuttig is, is het gebruik van het Slim Signaal zeker niet verplicht in mijn werk."
+2,0.9513095047321826,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Hoewel het wellicht van pas is, is het gebruik van het Slim Signaal zeker niet verplicht in mijn werk.'. 
+            This was backtranslated to 'While it may be necessary, using the Slim Signal is certainly not compulsory in my work.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.95.
+            Please improve your current translation based on this information.","Hoewel het wellicht van pas is, is het gebruik van het Slim Signaal zeker niet verplicht in mijn werk."
+3,0.9556159700036135,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Hoewel het wellicht nuttig is, is het gebruik van het Slim Signaal zeker niet verplicht in mijn werk.'. 
+            This was backtranslated to 'While it may be useful, using the Slim Signal is certainly not compulsory in my work.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.96.
+            Please improve your current translation based on this information.","Hoewel het wellicht nuttig is, is het gebruik van het Slim Signaal zeker niet verplicht in mijn werk."
+4,0.1133216572130192,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Hoewel het wellicht nuttig is, is het gebruik van het Slim Signaal zeker niet verplicht in mijn werk.'. 
+            This was backtranslated to 'While it may be useful, using the Slim Signal is certainly not mandatory in my work.
+'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.11.
+            Please improve your current translation based on this information.","Hoewel het wellicht nuttig is, is het gebruik van het Slim Signaal zeker niet verplicht in mijn werk."
+5,0.9693648035231146,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Hoewel het wellicht nuttig is, is het gebruik van het Slim Signaal zeker niet verplicht in mijn werk.'. 
+            This was backtranslated to 'Although it may be useful, the use of the Slim Signal is certainly not mandatory in my work.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.97.
+            Please improve your current translation based on this information.","Hoewel het wellicht nuttig is, is het gebruik van het Slim Signaal zeker niet verplicht in mijn werk."

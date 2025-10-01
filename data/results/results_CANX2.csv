@@ -1,0 +1,51 @@
+iteration,cosine_similarity,guidelines,translation
+1,0.8341579548767988,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Het werken met een computer maakt me nerveus.
+'. 
+            This was backtranslated to 'Working with a computer makes me nervous.
+Smart signal (English) -> Slim Signaal (Dutch)
+Slim Signaal (Dutch) -> Smart signal (English)
+
+Translation of provided text: Working with a computer makes me nerve-wracked/nervous.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.83.
+            Please improve your current translation based on this information.","Het werken met een computer maakt me nerveus.
+"
+2,0.9164183900987712,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Het werken met een computer maakt me angstig.
+'. 
+            This was backtranslated to 'Working with a computer makes me anxious.
+Smart signal (in both languages) refers to each other, so 'Slim Signaal' translates back to Smart Signal in English and vice versa. The context here is clear; no further elaboration needed beyond translation.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.92.
+            Please improve your current translation based on this information.","Het werken met een computer maakt me angstig.
+"
+3,0.7531367678256683,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Het werken met een computer maakt me nerveus.
+'. 
+            This was backtranslated to 'Working with a computer makes me nervous.
+Smart Signal: Slim Signaal (Translation maintained)'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.75.
+            Please improve your current translation based on this information.","Het werken met een computer maakt me nerveus.
+"
+4,0.5945329063262647,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Het werken met een computer maakt me ongerust.
+'. 
+            This was backtranslated to 'The work with a computer makes me anxious.
+Smart signal (English) → Slim Signaal (Dutch)
+Slim Signaal (Dutch) → Smart signal (English)
+
+Output: The work with a computer makes me anxious.
+Smart signal (English) → Slim Signaal (Dutch)
+Slim Signaal (Dutch) → Smart signal (English)'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.59.
+            Please improve your current translation based on this information.","Het werken met een computer maakt me ongerust.
+"
+5,0.6564535383235117,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'De computer maken me ongemakkelijk.
+Slim Signaal (Engels) → Slim Signaal (Nederlands)
+Slim Signaal (Nederlands) → Smart signal (Engels)'. 
+            This was backtranslated to 'Make me uncomfortable with computers / Smart signal (English) → Make me uncomfortable with computers / Slim Signaal (Dutch)
+Slim Signaal (English) → Smart signal (Dutch)'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.66.
+            Please improve your current translation based on this information.","De computer maken me ongemakkelijk.
+Slim Signaal (Engels) → Slim Signaal (Nederlands)
+Slim Signaal (Nederlands) → Smart signal (Engels)"

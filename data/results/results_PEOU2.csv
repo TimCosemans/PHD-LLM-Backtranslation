@@ -1,0 +1,26 @@
+iteration,cosine_similarity,guidelines,translation
+1,0.9879226164578142,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Het interacteren met het Slim Signaal vereist niet veel mentale inspanning van mijn kant.'. 
+            This was backtranslated to 'Interacting with the smart signal requires little mental effort from me.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.99.
+            Please improve your current translation based on this information.",Het interacteren met het Slim Signaal vereist niet veel mentale inspanning van mijn kant.
+2,0.9746108488661152,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Het interacteren met het Slim Signaal kost me weinig denkwerk.'. 
+            This was backtranslated to 'Interacting with the smart signal requires little thinking effort.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.97.
+            Please improve your current translation based on this information.",Het interacteren met het Slim Signaal kost me weinig denkwerk.
+3,0.9771671530162149,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Het interacteren met het Slim Signaal vereist weinig mentale inspanning.'. 
+            This was backtranslated to 'Interacting with the smart signal requires little mental effort.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.98.
+            Please improve your current translation based on this information.",Het interacteren met het Slim Signaal vereist weinig mentale inspanning.
+4,0.9781871598360534,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Het interacteren met het Slim Signaal vereist weinig mentale inspanning.'. 
+            This was backtranslated to 'Interacting with the Smart Signal requires little mental effort.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.98.
+            Please improve your current translation based on this information.",Het interacteren met het Slim Signaal vereist weinig mentale inspanning.
+5,0.9771671530162149,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Het interacteren met het Slim Signaal vereist weinig mentale inspanning.'. 
+            This was backtranslated to 'Interacting with the smart signal requires little mental effort.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.98.
+            Please improve your current translation based on this information.",Het interacteren met het Slim Signaal vereist weinig mentale inspanning.

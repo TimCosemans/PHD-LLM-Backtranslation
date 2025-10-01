@@ -1,0 +1,32 @@
+iteration,cosine_similarity,guidelines,translation
+1,0.7774336733601388,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Mensen die mijn gedrag beïnvloeden, vinden dat ik het Slim Signaal zou moeten gebruiken.'. 
+            This was backtranslated to 'People who influence my behavior find that I should use Smart Signal (Slim Signaal).
+
+(Note: The term 'Smart Signal' is used here as a direct equivalent of 'Slim Signaal', assuming it refers to some form of technology or system.)'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.78.
+            Please improve your current translation based on this information.","Mensen die mijn gedrag beïnvloeden, vinden dat ik het Slim Signaal zou moeten gebruiken."
+2,0.817595104752539,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Mensen die mijn gedrag beïnvloeden, denken dat ik het Slim Signaal zou moeten gebruiken.'. 
+            This was backtranslated to 'People who influence my behavior think I should use Smart Signal.
+
+(Note: The term ""Smart Signal"" is directly translated to Dutch, and vice versa for consistency with your example.)'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.82.
+            Please improve your current translation based on this information.","Mensen die mijn gedrag beïnvloeden, denken dat ik het Slim Signaal zou moeten gebruiken."
+3,0.7755179270553558,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Mensen die mijn gedrag beïnvloeden, denken dat ik het Slim Signaal gebruik.'. 
+            This was backtranslated to 'People who influence my behavior think I use Slim Signal.
+
+(Note: ""Slim Signaal"" is directly translated to ""Smart Signal"". The term has been used in both languages for this specific context.)'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.78.
+            Please improve your current translation based on this information.","Mensen die mijn gedrag beïnvloeden, denken dat ik het Slim Signaal gebruik."
+4,0.9424499059070259,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Mensen die mijn gedrag beïnvloeden, denken dat ik het Slim Signaal gebruik.'. 
+            This was backtranslated to 'People who influence my behavior think I use Smart Signal (literally 'Slim Signaal' in Dutch).'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.94.
+            Please improve your current translation based on this information.","Mensen die mijn gedrag beïnvloeden, denken dat ik het Slim Signaal gebruik."
+5,0.9435924707622632,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Mensen die mijn gedrag beïnvloeden, denken dat ik het Slim Signaal gebruik.'. 
+            This was backtranslated to 'People who influence my behavior think I use Slim Signal.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.94.
+            Please improve your current translation based on this information.","Mensen die mijn gedrag beïnvloeden, denken dat ik het Slim Signaal gebruik."

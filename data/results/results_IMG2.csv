@@ -1,0 +1,31 @@
+iteration,cosine_similarity,guidelines,translation
+1,0.056479796604112655,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Mijn schoolgasten die het Slim Signaal gebruiken, hebben een hoge zichtbaarheid.'. 
+            This was backtranslated to 'My school guests who use Smart Signal have high visibility.
+'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.06.
+            Please improve your current translation based on this information.","Mijn schoolgasten die het Slim Signaal gebruiken, hebben een hoge zichtbaarheid."
+2,0.9474465869721517,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Mijn schoolstudenten die het Slim Signaal gebruiken, hebben veel aandacht.'. 
+            This was backtranslated to 'My school students who use Smart Signal pay a lot of attention.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.95.
+            Please improve your current translation based on this information.","Mijn schoolstudenten die het Slim Signaal gebruiken, hebben veel aandacht."
+3,0.06228221984986894,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Mijn schoolstudenten die het Slim Signaal gebruiken, hebben veel publiciteit.'. 
+            This was backtranslated to 'My school students who use Smart Signal have a lot of publicity.
+'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.06.
+            Please improve your current translation based on this information.","Mijn schoolstudenten die het Slim Signaal gebruiken, hebben veel publiciteit."
+4,0.09424045231101941,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Mijn schoolstudenten die het Slim Signaal gebruiken, hebben veel aandacht.'. 
+            This was backtranslated to 'My school students who use Smart Signal pay a lot of attention.
+'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.09.
+            Please improve your current translation based on this information.","Mijn schoolstudenten die het Slim Signaal gebruiken, hebben veel aandacht."
+5,0.7227801989236551,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Mijn medestudenten die het Slim Signaal gebruiken, hebben veel aandacht.'. 
+            This was backtranslated to 'My study group members using Smart Signal pay a lot of attention.
+
+(Note: The term 'Smart Signal' is translated to Dutch as 'Slim Signaal'. In English, it remains unchanged because there was no established equivalent that conveyed both the bilingual context and specific technical meaning.)'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.72.
+            Please improve your current translation based on this information.","Mijn medestudenten die het Slim Signaal gebruiken, hebben veel aandacht."

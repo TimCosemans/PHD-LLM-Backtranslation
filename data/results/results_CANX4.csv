@@ -1,0 +1,43 @@
+iteration,cosine_similarity,guidelines,translation
+1,0.7826090187024458,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Computers maken me ongemakkelijk.
+'. 
+            This was backtranslated to 'Computers make me uncomfortable.
+Smart signal (English) = Slim Signaal (Dutch)
+Slim Signaal (Dutch) = Smart signal (English)
+
+Translation: Computers maken me ongemakkelijk.
+(Note: The translation of 'Smart Signal' back and forth between English and Dutch is provided as requested, not included in the main translated text.)'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.78.
+            Please improve your current translation based on this information.","Computers maken me ongemakkelijk.
+"
+2,0.9172342603173783,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Computers maken me oncomfortabel.
+'. 
+            This was backtranslated to 'Computers make me uncomfortable.
+Smart signal (English) to Slim Signaal (Dutch), and vice versa.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.92.
+            Please improve your current translation based on this information.","Computers maken me oncomfortabel.
+"
+3,0.9006446893701439,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Computers maken me ongemakkelijk.
+'. 
+            This was backtranslated to 'Computers make me uncomfortable.
+Smart (Signal) - Slim Signaal, and vice versa.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.90.
+            Please improve your current translation based on this information.","Computers maken me ongemakkelijk.
+"
+4,0.4464713567945273,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Computers maken me ongemakkelijk.'. 
+            This was backtranslated to 'Computers make me uncomfortable.
+Smart (English) to Slim Signal (Dutch): Smart → Slim Signaal
+Signal (Dutch) to Smart (English): Slim Signaal → Smart'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.45.
+            Please improve your current translation based on this information.",Computers maken me ongemakkelijk.
+5,0.6702567547600896,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Computers maken me ongemakkelijk.'. 
+            This was backtranslated to 'Computers make me uncomfortable.
+Smart (English) -> Slim Signaal (Dutch)
+Signal (Dutch) -> Smart (English)'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.67.
+            Please improve your current translation based on this information.",Computers maken me ongemakkelijk.

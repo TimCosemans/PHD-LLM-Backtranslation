@@ -1,0 +1,13 @@
+iteration,cosine_similarity,guidelines,translation
+1,0.8007873422792297,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Het Slim Signaal is niet compatibel met andere systemen die ik gebruik.'. 
+            This was backtranslated to 'The Smart Signal is not compatible with other systems I use.
+
+(Note: The term 'Slim Signaal' has been directly translated to maintain consistency, and it translates back into English as ""Smart Signal"".)'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.80.
+            Please improve your current translation based on this information.",Het Slim Signaal is niet compatibel met andere systemen die ik gebruik.
+2,1.0000010699691013,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Het Slim Signaal is niet compatibel met andere systemen die ik gebruik.'. 
+            This was backtranslated to 'The Smart Signal is not compatible with other systems I use.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 1.00.
+            Please improve your current translation based on this information.",Het Slim Signaal is niet compatibel met andere systemen die ik gebruik.

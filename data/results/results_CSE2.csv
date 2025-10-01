@@ -1,0 +1,28 @@
+iteration,cosine_similarity,guidelines,translation
+1,0.9395867719222144,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Ik zou een klus kunnen afronden met het Slim Signaal als ik alleen de ingebouwde helpfunctie zou hebben voor ondersteuning.'. 
+            This was backtranslated to 'I could wrap up the job with Slim Signal if I only had the built-in support function included.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.94.
+            Please improve your current translation based on this information.",Ik zou een klus kunnen afronden met het Slim Signaal als ik alleen de ingebouwde helpfunctie zou hebben voor ondersteuning.
+2,0.9525648706277405,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Ik had het Slim Signaal succesvol kunnen afronden als ik alleen de ingebouwde helpfunctie had voor ondersteuning.'. 
+            This was backtranslated to 'I could have successfully completed the Slim Signal if I only had built-in support functions included.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.95.
+            Please improve your current translation based on this information.",Ik had het Slim Signaal succesvol kunnen afronden als ik alleen de ingebouwde helpfunctie had voor ondersteuning.
+3,0.949526499257939,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Ik had de Slim Signaal succesvol kunnen afronden als ik alleen de ingebouwde helpfunctie voor ondersteuning had.'. 
+            This was backtranslated to 'I could have successfully completed Slim Signal if I had only used the built-in support function.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.95.
+            Please improve your current translation based on this information.",Ik had de Slim Signaal succesvol kunnen afronden als ik alleen de ingebouwde helpfunctie voor ondersteuning had.
+4,0.9397979198765087,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Ik had de Slim Signaal succesvol kunnen afronden als ik alleen de ingebouwde helpfunctie voor ondersteuning had.'. 
+            This was backtranslated to 'I could have successfully completed Slim Signal if only I had used the built-in support function.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.94.
+            Please improve your current translation based on this information.",Ik had de Slim Signaal succesvol kunnen afronden als ik alleen de ingebouwde helpfunctie voor ondersteuning had.
+5,0.7444608990412065,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Ik had de Slim Signaal succesvol kunnen afronden als ik alleen de ingebouwde helpfunctie voor ondersteuning had.'. 
+            This was backtranslated to 'I could have successfully completed the Smart Signal if only I had used the built-in support function.
+
+(Note: The term 'Slim Signaal' has been directly translated to English as a proper noun or specific terminology, and thus remains unchanged.)'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.74.
+            Please improve your current translation based on this information.",Ik had de Slim Signaal succesvol kunnen afronden als ik alleen de ingebouwde helpfunctie voor ondersteuning had.

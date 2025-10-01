@@ -1,0 +1,26 @@
+iteration,cosine_similarity,guidelines,translation
+1,0.9850703881524261,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Ik heb controle over het Slim Signaal.'. 
+            This was backtranslated to 'I have control over the Smart Signal.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.99.
+            Please improve your current translation based on this information.",Ik heb controle over het Slim Signaal.
+2,0.9850703881524261,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Ik heb controle over het Slim Signaal.'. 
+            This was backtranslated to 'I have control over the Smart Signal.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.99.
+            Please improve your current translation based on this information.",Ik heb controle over het Slim Signaal.
+3,0.9584612562026995,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Ik heb controle over het Slim Signaal.'. 
+            This was backtranslated to 'I have control over the Slim Signal.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.96.
+            Please improve your current translation based on this information.",Ik heb controle over het Slim Signaal.
+4,0.9727869043587358,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Ik heb controle over het Slim Signaal.'. 
+            This was backtranslated to 'I have control over the smart signal.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.97.
+            Please improve your current translation based on this information.",Ik heb controle over het Slim Signaal.
+5,0.9584612562026995,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Ik heb controle over het Slim Signaal.'. 
+            This was backtranslated to 'I have control over the Slim Signal.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.96.
+            Please improve your current translation based on this information.",Ik heb controle over het Slim Signaal.

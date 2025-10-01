@@ -1,0 +1,26 @@
+iteration,cosine_similarity,guidelines,translation
+1,0.9843742455231013,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Ik denk dat Slim Signaal competent is in zijn vakgebied.'. 
+            This was backtranslated to 'I believe Smart Signal is competent in its field.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.98.
+            Please improve your current translation based on this information.",Ik denk dat Slim Signaal competent is in zijn vakgebied.
+2,0.9822403516111415,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Ik denk dat Slim Signaal competent is in zijn specialisme.'. 
+            This was backtranslated to 'I believe Smart Signal is competent in its specialism.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.98.
+            Please improve your current translation based on this information.",Ik denk dat Slim Signaal competent is in zijn specialisme.
+3,0.9899649876174582,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Ik denk dat Slim Signaal competent is in zijn vakgebied.'. 
+            This was backtranslated to 'I think Smart Signal is competent in its field.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.99.
+            Please improve your current translation based on this information.",Ik denk dat Slim Signaal competent is in zijn vakgebied.
+4,0.9822403516111415,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Ik denk dat Slim Signaal competent is in zijn specialisme.'. 
+            This was backtranslated to 'I believe Smart Signal is competent in its specialism.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.98.
+            Please improve your current translation based on this information.",Ik denk dat Slim Signaal competent is in zijn specialisme.
+5,0.9843742455231013,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Ik denk dat Slim Signaal competent is in zijn vakgebied.'. 
+            This was backtranslated to 'I believe Smart Signal is competent in its field.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.98.
+            Please improve your current translation based on this information.",Ik denk dat Slim Signaal competent is in zijn vakgebied.

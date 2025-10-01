@@ -1,0 +1,26 @@
+iteration,cosine_similarity,guidelines,translation
+1,0.9678206115643334,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Over het algemeen heeft de school het gebruik van het Slim Signaal ondersteund.'. 
+            This was backtranslated to 'Generally, the school has supported the use of Smart Signal.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.97.
+            Please improve your current translation based on this information.",Over het algemeen heeft de school het gebruik van het Slim Signaal ondersteund.
+2,0.897490471733106,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Over het algemeen heeft de school het gebruik van het Slim Signaal ondersteund.'. 
+            This was backtranslated to 'Generally, the school has supported the use of Slim Signal.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.90.
+            Please improve your current translation based on this information.",Over het algemeen heeft de school het gebruik van het Slim Signaal ondersteund.
+3,0.8796257720018943,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Over het algemeen heeft de school het gebruik van het Slim Signaal ondersteund.'. 
+            This was backtranslated to 'Overall, the school has supported the use of Slim Signal.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.88.
+            Please improve your current translation based on this information.",Over het algemeen heeft de school het gebruik van het Slim Signaal ondersteund.
+4,0.8796257720018943,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Over het algemeen heeft de school het gebruik van het Slim Signaal ondersteund.'. 
+            This was backtranslated to 'Overall, the school has supported the use of Slim Signal.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.88.
+            Please improve your current translation based on this information.",Over het algemeen heeft de school het gebruik van het Slim Signaal ondersteund.
+5,0.9477163750251841,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Over het algemeen heeft de school het gebruik van het Slim Signaal ondersteund.'. 
+            This was backtranslated to 'Overall, the school has supported the use of Smart Signal.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.95.
+            Please improve your current translation based on this information.",Over het algemeen heeft de school het gebruik van het Slim Signaal ondersteund.

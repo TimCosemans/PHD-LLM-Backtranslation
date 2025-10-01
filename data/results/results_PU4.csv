@@ -1,0 +1,26 @@
+iteration,cosine_similarity,guidelines,translation
+1,0.9684174418124663,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Ik vind het Slim Signaal nuttig in mijn werk.'. 
+            This was backtranslated to 'I find the Slim Signal useful in my work.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.97.
+            Please improve your current translation based on this information.",Ik vind het Slim Signaal nuttig in mijn werk.
+2,0.9870208239012777,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Ik vind het Slim Signaal nuttig in mijn werk.'. 
+            This was backtranslated to 'I find Smart Signal useful in my work.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.99.
+            Please improve your current translation based on this information.",Ik vind het Slim Signaal nuttig in mijn werk.
+3,0.9820313759540504,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Ik vind het Slim Signaal nuttig in mijn werk.'. 
+            This was backtranslated to 'I find the Smart Signal useful in my work.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.98.
+            Please improve your current translation based on this information.",Ik vind het Slim Signaal nuttig in mijn werk.
+4,0.9632976948201816,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Ik vind het Slim Signaal nuttig in mijn werk.'. 
+            This was backtranslated to 'I find Slim Signaal useful in my work.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.96.
+            Please improve your current translation based on this information.",Ik vind het Slim Signaal nuttig in mijn werk.
+5,0.9870208239012777,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Ik vind het Slim Signaal nuttig in mijn werk.'. 
+            This was backtranslated to 'I find Smart Signal useful in my work.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.99.
+            Please improve your current translation based on this information.",Ik vind het Slim Signaal nuttig in mijn werk.

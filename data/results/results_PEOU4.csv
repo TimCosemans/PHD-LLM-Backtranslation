@@ -1,0 +1,30 @@
+iteration,cosine_similarity,guidelines,translation
+1,0.8208299492351119,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Ik vind het gemakkelijk om het Slim Signaal te gebruiken om te zien wat ik wil zien.'. 
+            This was backtranslated to 'I find it easy to use Slim Signal to see what I want to see.
+
+(Note: The term 'Smart Signal' is translated here contextually into Dutch as 'Slim Signaal', which maintains its meaning in both languages.)'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.82.
+            Please improve your current translation based on this information.",Ik vind het gemakkelijk om het Slim Signaal te gebruiken om te zien wat ik wil zien.
+2,0.9675423496113823,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Het is voor mij eenvoudig om het Slim Signaal te gebruiken om te zien wat ik wil zien.'. 
+            This was backtranslated to 'It is easy for me to use Smart Signal to see what I want to see.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.97.
+            Please improve your current translation based on this information.",Het is voor mij eenvoudig om het Slim Signaal te gebruiken om te zien wat ik wil zien.
+3,0.09406835648138336,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Het is gemakkelijk om het Slim Signaal te gebruiken om te zien wat ik wil zien.'. 
+            This was backtranslated to 'It is easy to use Smart Signal to see what I want to see.
+'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.09.
+            Please improve your current translation based on this information.",Het is gemakkelijk om het Slim Signaal te gebruiken om te zien wat ik wil zien.
+4,0.09406835648138336,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Het is eenvoudig om het Slim Signaal te gebruiken om te zien wat ik wil zien.'. 
+            This was backtranslated to 'It is easy to use Smart Signal to see what I want to see.
+'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.09.
+            Please improve your current translation based on this information.",Het is eenvoudig om het Slim Signaal te gebruiken om te zien wat ik wil zien.
+5,0.9460018978081338,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Het is gemakkelijk om het Slim Signaal te gebruiken om te zien wat ik wil zien.'. 
+            This was backtranslated to 'It is easy to use Smart Signal to see what I want to see.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.95.
+            Please improve your current translation based on this information.",Het is gemakkelijk om het Slim Signaal te gebruiken om te zien wat ik wil zien.

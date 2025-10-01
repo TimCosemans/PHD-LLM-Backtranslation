@@ -1,0 +1,37 @@
+iteration,cosine_similarity,guidelines,translation
+1,0.7695291512712295,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Toevalig Signaal'. 
+            This was backtranslated to 'To Be or Not To Be (Signal)
+
+(Note: The literal translations of 'Smart Signal' to Dutch and back would be ""Slim Signaal"". However, since you requested a direct English interpretation for 'Toevalig Signaal', I provided the more general philosophical translation which is commonly understood.)'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.77.
+            Please improve your current translation based on this information.",Toevalig Signaal
+2,0.8307800161513135,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Wanneer ik computers gebruik, ben ik creatief.'. 
+            This was backtranslated to 'When I use computers, I am creative.
+Smart signal (in Dutch: Slim Signaal) translates to Smart signal (English). Conversely, Smart signal in English is translated as a Slim signal (Dutch).
+
+Translation for 'Slim Signaal': When using smart signals or technology-enhanced prompts that encourage creativity.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.83.
+            Please improve your current translation based on this information.","Wanneer ik computers gebruik, ben ik creatief."
+3,0.8258567682712546,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Wanneer ik computers gebruik, ben ik creatief.'. 
+            This was backtranslated to 'When I use computers, I am creative.
+Smart signal (in Dutch: Slim Signaal) means Smart signal (in English).'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.83.
+            Please improve your current translation based on this information.","Wanneer ik computers gebruik, ben ik creatief."
+4,0.3240138187108259,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Wanneer ik computers gebruik, ben ik creatief.'. 
+            This was backtranslated to 'When I use computers, I am creative.
+Smart signal (English) = Slim Signaal (Dutch)
+Signaal smart (Dutch) = Smart signal (English)
+
+Translation: Wanneer ik computer gebruik, ben ik creatief.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.32.
+            Please improve your current translation based on this information.","Wanneer ik computers gebruik, ben ik creatief."
+5,0.7041006893350239,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Wanneer ik met computers werk, ben ik creatief.'. 
+            This was backtranslated to 'When I work with computers, I am creative.
+Smart Signal: Slim Signaal (or vice versa)'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.70.
+            Please improve your current translation based on this information.","Wanneer ik met computers werk, ben ik creatief."

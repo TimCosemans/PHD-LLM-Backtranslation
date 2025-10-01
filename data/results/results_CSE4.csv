@@ -1,0 +1,32 @@
+iteration,cosine_similarity,guidelines,translation
+1,0.8149597229011782,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was '""Als ik eerder vergelijkbare pakketten had gebruikt, had ik de taak met het Slim Signaal afgerond.""
+'. 
+            This was backtranslated to '""If I had used similar packages before, I would have finished the task with Slim Signal.""'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.81.
+            Please improve your current translation based on this information.","""Als ik eerder vergelijkbare pakketten had gebruikt, had ik de taak met het Slim Signaal afgerond.""
+"
+2,0.7903133329257045,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was '""Als ik eerder het Slim Signaal met vergelijkbare pakketten had gebruikt, had ik de taak afgerond.""'. 
+            This was backtranslated to '""If I had used Slim Signal with similar packages earlier, I would have completed the task.""
+
+(Note: The given instruction appears to request translating technical terms where 'Slim Signaal' is treated as a specific term that should be translated back and forth between Dutch ('slim signaal') and English. Since no direct translation for this fictitious tech-related term exists, I used the provided contextual equivalent in both languages.)'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.79.
+            Please improve your current translation based on this information.","""Als ik eerder het Slim Signaal met vergelijkbare pakketten had gebruikt, had ik de taak afgerond."""
+3,0.8397663301363139,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was '""Als ik eerder het Slim Signaal met vergelijkbare pakketten had gebruikt, had ik de taak afgerond.""'. 
+            This was backtranslated to '""If I had used Slim Signal with similar packages earlier, I would have completed the task.""'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.84.
+            Please improve your current translation based on this information.","""Als ik eerder het Slim Signaal met vergelijkbare pakketten had gebruikt, had ik de taak afgerond."""
+4,0.8430920548941971,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was '""Als ik eerder het Slim Signaal met vergelijkbare pakketten had gebruikt, had ik de taak afgerond.""'. 
+            This was backtranslated to '""If I had used Smart Signal with similar packages earlier, I would have completed the task.""'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.84.
+            Please improve your current translation based on this information.","""Als ik eerder het Slim Signaal met vergelijkbare pakketten had gebruikt, had ik de taak afgerond."""
+5,0.8430920548941971,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was '""Als ik eerder het Slim Signaal met vergelijkbare pakketten had gebruikt, had ik de taak afgerond.""
+'. 
+            This was backtranslated to '""If I had used Smart Signal with similar packages earlier, I would have completed the task.""'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.84.
+            Please improve your current translation based on this information.","""Als ik eerder het Slim Signaal met vergelijkbare pakketten had gebruikt, had ik de taak afgerond.""
+"

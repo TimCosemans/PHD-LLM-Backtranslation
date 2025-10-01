@@ -1,0 +1,32 @@
+iteration,cosine_similarity,guidelines,translation
+1,0.9809508717397516,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Ik vertrouw op het Slim Signaal.'. 
+            This was backtranslated to 'I trust Smart Signal.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.98.
+            Please improve your current translation based on this information.",Ik vertrouw op het Slim Signaal.
+2,0.9424853866547372,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Ik vertrouw op het Slim Signaal.
+'. 
+            This was backtranslated to 'I trust Slim Signal.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.94.
+            Please improve your current translation based on this information.","Ik vertrouw op het Slim Signaal.
+"
+3,0.9809508717397516,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Ik vertrouw op het Slim Signaal.'. 
+            This was backtranslated to 'I trust Smart Signal.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.98.
+            Please improve your current translation based on this information.",Ik vertrouw op het Slim Signaal.
+4,0.9424853866547372,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Ik vertrouw op het Slim Signaal.
+'. 
+            This was backtranslated to 'I trust Slim Signal.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.94.
+            Please improve your current translation based on this information.","Ik vertrouw op het Slim Signaal.
+"
+5,0.9809508717397516,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Ik vertrouw op het Slim Signaal.
+'. 
+            This was backtranslated to 'I trust Smart Signal.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.98.
+            Please improve your current translation based on this information.","Ik vertrouw op het Slim Signaal.
+"

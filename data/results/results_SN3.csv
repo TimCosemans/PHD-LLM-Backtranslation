@@ -1,0 +1,28 @@
+iteration,cosine_similarity,guidelines,translation
+1,0.9187265552201471,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'De leiding van deze school heeft de Smart Signal effectief ondersteund.'. 
+            This was backtranslated to 'The leadership of this school has effectively supported Slim Signal.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.92.
+            Please improve your current translation based on this information.",De leiding van deze school heeft de Smart Signal effectief ondersteund.
+2,0.9619854433627097,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'De leiding van deze school heeft de Slim Signaal effectief benut.'. 
+            This was backtranslated to 'The school leadership has effectively utilized Smart Signal.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.96.
+            Please improve your current translation based on this information.",De leiding van deze school heeft de Slim Signaal effectief benut.
+3,0.9772923523213545,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'De leiding van deze school heeft de Slim Signaal effectief benut.'. 
+            This was backtranslated to 'The leadership of this school has effectively utilized Smart Signal.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.98.
+            Please improve your current translation based on this information.",De leiding van deze school heeft de Slim Signaal effectief benut.
+4,0.9619854433627097,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'De leiding van deze school heeft de Slim Signaal effectief benut.'. 
+            This was backtranslated to 'The school leadership has effectively utilized Smart Signal.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.96.
+            Please improve your current translation based on this information.",De leiding van deze school heeft de Slim Signaal effectief benut.
+5,0.7098123746809194,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'De leiding van deze school heeft de Slim Signaal effectief benut.'. 
+            This was backtranslated to 'The leadership of this school has effectively utilized Smart Signal.
+
+(Note: The term 'Slim Signaal' is specifically translated here to maintain consistency with your request, as requested.)'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.71.
+            Please improve your current translation based on this information.",De leiding van deze school heeft de Slim Signaal effectief benut.

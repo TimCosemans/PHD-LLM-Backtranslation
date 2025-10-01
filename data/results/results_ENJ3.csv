@@ -1,0 +1,28 @@
+iteration,cosine_similarity,guidelines,translation
+1,0.8822279194205508,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Ik vind het leuk om het Slim Signaal te gebruiken.'. 
+            This was backtranslated to 'I find it enjoyable to use Smart Signal. (or) I like using Slim Signaal.
+
+Note: Since 'Smart Signal' and 'Slim Signaal' are used interchangeably here, both translations maintain this relationship in English as well.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.88.
+            Please improve your current translation based on this information.",Ik vind het leuk om het Slim Signaal te gebruiken.
+2,0.9535987465571372,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Ik vind het leuk met het Slim Signaal.'. 
+            This was backtranslated to 'I find it nice with the Slim Signal.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.95.
+            Please improve your current translation based on this information.",Ik vind het leuk met het Slim Signaal.
+3,0.9699676185728272,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Ik vind het leuk met het Slim Signaal.'. 
+            This was backtranslated to 'I find it cool with Smart Signal.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.97.
+            Please improve your current translation based on this information.",Ik vind het leuk met het Slim Signaal.
+4,0.9776072801813933,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Ik vind het leuk met het Slim Signaal.'. 
+            This was backtranslated to 'I find it useful with Smart Signal.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.98.
+            Please improve your current translation based on this information.",Ik vind het leuk met het Slim Signaal.
+5,0.9453407572138829,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Ik vind het leuk met het Slim Signaal.'. 
+            This was backtranslated to 'I find it nice with Slim Signaal.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.95.
+            Please improve your current translation based on this information.",Ik vind het leuk met het Slim Signaal.

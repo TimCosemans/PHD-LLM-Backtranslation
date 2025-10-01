@@ -1,0 +1,27 @@
+iteration,cosine_similarity,guidelines,translation
+1,0.9118935044352605,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Ik kon een klus voltooien met het Slim Signaal als iemand me eerst liet zien hoe het moest.'. 
+            This was backtranslated to 'I completed the task with Slim Signal after someone first showed me how it worked.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.91.
+            Please improve your current translation based on this information.",Ik kon een klus voltooien met het Slim Signaal als iemand me eerst liet zien hoe het moest.
+2,0.9641292207532235,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Ik kon een klus afronden met het Slim Signaal als iemand me eerst liet zien hoe dat moest.'. 
+            This was backtranslated to 'I was able to finish the task with Smart Signal, once someone showed me how it works first.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.96.
+            Please improve your current translation based on this information.",Ik kon een klus afronden met het Slim Signaal als iemand me eerst liet zien hoe dat moest.
+3,0.9324406047867388,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Ik kon een klus voltooien met het Slim Signaal als iemand me eerst liet zien hoe dat moest.'. 
+            This was backtranslated to 'I completed the task with the Slim Signal once someone showed me how it worked first.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.93.
+            Please improve your current translation based on this information.",Ik kon een klus voltooien met het Slim Signaal als iemand me eerst liet zien hoe dat moest.
+4,0.11335954719634744,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Ik kon een klus voltooien met het Slim Signaal als iemand me eerst liet zien hoe dat moest.'. 
+            This was backtranslated to 'I completed the task with Smart Signal once someone showed me how it worked first.
+'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.11.
+            Please improve your current translation based on this information.",Ik kon een klus voltooien met het Slim Signaal als iemand me eerst liet zien hoe dat moest.
+5,0.9630529549770748,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Ik kon een klus afronden met het Slim Signaal als iemand me eerst liet zien hoe dat moest.'. 
+            This was backtranslated to 'I was able to finish the task with Smart Signal, once someone showed me how it worked first.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.96.
+            Please improve your current translation based on this information.",Ik kon een klus afronden met het Slim Signaal als iemand me eerst liet zien hoe dat moest.

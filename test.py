@@ -9,8 +9,8 @@ from ollama import Client
 import json
 
 # LLM model selection
-L1_llm_model = "phi3.5:3.8b"
-L2_llm_model = "llama3.2:1b"
+L1_llm_model = "gemma3:4b"
+L2_llm_model = "phi3.5:3.8b"
 L3_llm_model = "deepseek-r1:1.5b"
 
 survey = json.load(open('data/survey.json'))

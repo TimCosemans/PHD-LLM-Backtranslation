@@ -1,0 +1,28 @@
+iteration,cosine_similarity,guidelines,translation
+1,0.796175673414281,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Mijn interactie met het Slim Signaal is duidelijk en begrijpelijk.'. 
+            This was backtranslated to 'My interaction with the Slim Signal is clear and understandable.
+
+(Note: I translated 'Smart Signal' to Dutch as 'Slim Signaal', which you specifically asked for, but in English it remains simply ""smart signal"". The final sentence translates accordingly.)'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.80.
+            Please improve your current translation based on this information.",Mijn interactie met het Slim Signaal is duidelijk en begrijpelijk.
+2,0.9461803446999013,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Mijn interactie met het Slim Signaal is helder en begrijpelijk.'. 
+            This was backtranslated to 'My interaction with Slim Signal is clear and understandable.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.95.
+            Please improve your current translation based on this information.",Mijn interactie met het Slim Signaal is helder en begrijpelijk.
+3,0.9968953541343883,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Mijn interactie met het Slim Signaal is helder en begrijpelijk.'. 
+            This was backtranslated to 'My interaction with Smart Signal is clear and understandable.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 1.00.
+            Please improve your current translation based on this information.",Mijn interactie met het Slim Signaal is helder en begrijpelijk.
+4,0.9674119155418593,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Mijn interactie met het Slim Signaal is helder en begrijpelijk.'. 
+            This was backtranslated to 'My interaction with the Slim Signal is clear and understandable.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.97.
+            Please improve your current translation based on this information.",Mijn interactie met het Slim Signaal is helder en begrijpelijk.
+5,0.9674119155418593,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Mijn interactie met het Slim Signaal is helder en begrijpelijk.'. 
+            This was backtranslated to 'My interaction with the Slim Signal is clear and understandable.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.97.
+            Please improve your current translation based on this information.",Mijn interactie met het Slim Signaal is helder en begrijpelijk.

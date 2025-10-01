@@ -1,0 +1,26 @@
+iteration,cosine_similarity,guidelines,translation
+1,0.9534517192042089,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Ik denk dat het Slim Signaal goed werkt.'. 
+            This was backtranslated to 'I believe that Slim Signal works well.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.95.
+            Please improve your current translation based on this information.",Ik denk dat het Slim Signaal goed werkt.
+2,0.9983412916420307,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Ik denk dat het Slim Signaal goed werkt.'. 
+            This was backtranslated to 'I think the Smart Signal works well.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 1.00.
+            Please improve your current translation based on this information.",Ik denk dat het Slim Signaal goed werkt.
+3,0.9965849586314016,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Ik denk dat het Slim Signaal goed werkt.'. 
+            This was backtranslated to 'I think that Smart Signal works well.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 1.00.
+            Please improve your current translation based on this information.",Ik denk dat het Slim Signaal goed werkt.
+4,0.9983412916420307,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Ik denk dat het Slim Signaal goed werkt.'. 
+            This was backtranslated to 'I think the Smart Signal works well.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 1.00.
+            Please improve your current translation based on this information.",Ik denk dat het Slim Signaal goed werkt.
+5,0.9983412916420307,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Ik denk dat het Slim Signaal goed werkt.'. 
+            This was backtranslated to 'I think the Smart Signal works well.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 1.00.
+            Please improve your current translation based on this information.",Ik denk dat het Slim Signaal goed werkt.

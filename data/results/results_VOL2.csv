@@ -1,0 +1,28 @@
+iteration,cosine_similarity,guidelines,translation
+1,0.9718851453621178,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Mijn leidinggevende hoeft mij niet het Slim Signaal te gebruiken.'. 
+            This was backtranslated to 'My supervisor doesn't need me to use Slim Signal.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.97.
+            Please improve your current translation based on this information.",Mijn leidinggevende hoeft mij niet het Slim Signaal te gebruiken.
+2,0.9952270678265266,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Mijn leidinggevende vereist niet dat ik het Slim Signaal gebruik.'. 
+            This was backtranslated to 'My supervisor does not require me to use Smart Signal.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 1.00.
+            Please improve your current translation based on this information.",Mijn leidinggevende vereist niet dat ik het Slim Signaal gebruik.
+3,0.776983279391801,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Mijn leidinggevende vereist niet dat ik het Slim Signaal gebruik.'. 
+            This was backtranslated to 'My supervisor does not require me to use Smart Signal.
+
+(Note: The term 'Smart Signal' is directly translated from Dutch, but since it was specified that we should treat ""Slim Signaal"" as English within this context and vice versa for the translation task, I provided an equivalent meaning by using common terminology.)'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.78.
+            Please improve your current translation based on this information.",Mijn leidinggevende vereist niet dat ik het Slim Signaal gebruik.
+4,0.8744235898054209,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Mijn leidinggevende vraagt mij niet om het Slim Signaal te gebruiken.'. 
+            This was backtranslated to 'My supervisor does not ask me to use Smart Signal. (Note: ""Slim Signaal"" is translated directly, but it's important for context that in this case, 'smart signaling methodology,' etc., might be implied by using a direct translation of the term.)'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.87.
+            Please improve your current translation based on this information.",Mijn leidinggevende vraagt mij niet om het Slim Signaal te gebruiken.
+5,0.886475884839996,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Mijn leidinggevende vraagt mij niet om het Slim Signaal te gebruiken.'. 
+            This was backtranslated to 'My supervisor does not ask me to use Smart Signal. (Note: 'Slim Signaal' translates directly to ""Smart Signal"" here, maintaining contextually appropriate terminology.)'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.89.
+            Please improve your current translation based on this information.",Mijn leidinggevende vraagt mij niet om het Slim Signaal te gebruiken.

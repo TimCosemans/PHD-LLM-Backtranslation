@@ -10,7 +10,7 @@ def backtranslate(string,
                   guidelines,
                   original_language,
                   target_language, 
-                  n_iterations=15): 
+                  n_iterations=5): 
     
     """
     Performs backtranslation of the input string using three LLMs.
@@ -70,7 +70,7 @@ def backtranslate(string,
 
     results = pd.DataFrame(columns=['iteration', 'cosine_similarity', 'guidelines', 'translation'])
 
-    while cosine_similarity < 1.0 or i < n_iterations:  # Limit to 15 iterations to avoid infinite loops
+    while cosine_similarity < 1.0 and i < n_iterations:  # Limit to 15 iterations to avoid infinite loops
         translation = L1.translate(string)
         backtranslation = L2.translate(translation)
         prompt, cosine_similarity = L3.evaluate(string, translation, backtranslation)

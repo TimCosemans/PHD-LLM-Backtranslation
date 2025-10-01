@@ -1,0 +1,41 @@
+iteration,cosine_similarity,guidelines,translation
+1,0.7714388430360779,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Toeval is mijn staart.
+'. 
+            This was backtranslated to 'Fate is my tail.
+Smart Signal: Slim Signaal (translation, but since it's already provided and requested to translate 'Slim Signaal', I assume you meant this term in English)
+Vice versa: Slim Signaal (back translation into Dutch for clarity; if the context was different please specify).'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.77.
+            Please improve your current translation based on this information.","Toeval is mijn staart.
+"
+2,0.46322948555147514,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Spontaan met computers.
+'. 
+            This was backtranslated to 'Spontaneous with computers'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.46.
+            Please improve your current translation based on this information.","Spontaan met computers.
+"
+3,0.6512454173065556,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Spontaan bij het gebruik van computers.'. 
+            This was backtranslated to 'Spontaneous computer use
+
+Smart Signal: Slim Signaal (and vice versa, since 'Slim' is already an accurate Dutch word for its English equivalent)'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.65.
+            Please improve your current translation based on this information.",Spontaan bij het gebruik van computers.
+4,0.7992719383945801,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Spontaan met computers gebruiken.'. 
+            This was backtranslated to 'Using computers spontaneously.
+Smart Signal (in Dutch): Slim Signaal; Vice Versa: Smart Signal (in English)
+
+Translation of 'Slim Signaal': Using computers spontaneously in Dutch is translated as ""Spontaan met computers gebruiken.""'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.80.
+            Please improve your current translation based on this information.",Spontaan met computers gebruiken.
+5,0.8691925918676323,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Spontaan bij het gebruik van computers.'. 
+            This was backtranslated to 'Spontaneous computer use
+
+Smart Signal: Slim Signaal (or Vice Versa)
+
+Translation of 'Slim Signaal' to English is simply ""Slim Signal"". No further context or explanation needed beyond this direct equivalence in language conversion.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.87.
+            Please improve your current translation based on this information.",Spontaan bij het gebruik van computers.

@@ -1,0 +1,49 @@
+iteration,cosine_similarity,guidelines,translation
+1,0.8160745923846143,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Computers vrezen mij absoluut niet.
+'. 
+            This was backtranslated to 'Computers don't fear me at all.
+Smart signal (in Dutch: Slim Signaal)
+Slim Signaal (in English: Smart signal)
+
+Translation of 'computers vrezen mij absoluut niet': Computers do not fear me at all.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.82.
+            Please improve your current translation based on this information.","Computers vrezen mij absoluut niet.
+"
+2,0.8829603225049864,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Computers maken me absoluut geen angst.'. 
+            This was backtranslated to 'Computers don'thy make me anxious at all.
+Smart Signal (English) = Slim Signaal (Dutch).'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.88.
+            Please improve your current translation based on this information.",Computers maken me absoluut geen angst.
+3,0.26600828565652135,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Computers vrezen mij absoluut niet.'. 
+            This was backtranslated to 'Computers do not fear me at all.
+Smart Signal (English) = Slim Signaal (Dutch)
+Slim Signaal (Dutch) = Smart Signal (English)
+
+Translation: Computers vrezen mij absoluut niet.
+Smart Signal → Slim Signaal
+Slim Signaal → Smart Signal'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.27.
+            Please improve your current translation based on this information.",Computers vrezen mij absoluut niet.
+4,0.8766305621527013,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Computers maken me absoluut geen angst.
+'. 
+            This was backtranslated to 'Computers don't make me anxious at all.
+Smart signal (in Dutch: Slim Signaal) translates to smart signal (in English).'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.88.
+            Please improve your current translation based on this information.","Computers maken me absoluut geen angst.
+"
+5,0.8665767291707419,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Computers maken me helemaal geen angst.
+'. 
+            This was backtranslated to 'Computers don't scare me at all.
+Smart (Signal) - Slim Signaal
+Slim Signaal - Smart (Signal)
+
+Translation: Computers make no sense to me completely, I am not afraid of them.
+""Smart Signal"" in English translates as ""Slim Signaal"" in Dutch and vice versa.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.87.
+            Please improve your current translation based on this information.","Computers maken me helemaal geen angst.
+"

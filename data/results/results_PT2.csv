@@ -1,0 +1,29 @@
+iteration,cosine_similarity,guidelines,translation
+1,0.10919665906535367,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Ik denk dat het Slim Signaal de benodigde functionaliteit heeft om belangrijke taken te voltooien.'. 
+            This was backtranslated to 'I believe that Smart Signal has the necessary functionality to accomplish important tasks.
+'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.11.
+            Please improve your current translation based on this information.",Ik denk dat het Slim Signaal de benodigde functionaliteit heeft om belangrijke taken te voltooien.
+2,0.8234356552371536,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Ik denk dat het Slim Signaal de benodigde functionaliteit heeft om cruciale taken te voltooien.'. 
+            This was backtranslated to 'I believe that Smart Signal has the necessary functionality to complete essential tasks.
+
+(Note: The term 'Slim Signaal' is indeed used for something like an IoT device, and I have translated it directly into English as ""Smart Signal."")'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.82.
+            Please improve your current translation based on this information.",Ik denk dat het Slim Signaal de benodigde functionaliteit heeft om cruciale taken te voltooien.
+3,0.9826702354809345,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Ik denk dat het Slim Signaal de benodigde functies heeft om belangrijke taken te voltooien.'. 
+            This was backtranslated to 'I believe that Smart Signal has the necessary functions to accomplish important tasks.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.98.
+            Please improve your current translation based on this information.",Ik denk dat het Slim Signaal de benodigde functies heeft om belangrijke taken te voltooien.
+4,0.9815930771020331,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Ik denk dat het Slim Signaal de benodigde functies heeft om cruciale taken te voltooien.'. 
+            This was backtranslated to 'I believe that Smart Signal has the necessary functions to complete essential tasks.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.98.
+            Please improve your current translation based on this information.",Ik denk dat het Slim Signaal de benodigde functies heeft om cruciale taken te voltooien.
+5,0.9812662378541112,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Ik denk dat het Slim Signaal de benodigde functionaliteiten heeft om belangrijke taken te voltooien.'. 
+            This was backtranslated to 'I believe that Smart Signal has the necessary functionalities to accomplish important tasks.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.98.
+            Please improve your current translation based on this information.",Ik denk dat het Slim Signaal de benodigde functionaliteiten heeft om belangrijke taken te voltooien.

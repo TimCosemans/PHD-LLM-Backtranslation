@@ -1,0 +1,28 @@
+iteration,cosine_similarity,guidelines,translation
+1,0.993950177843397,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Mensen in mijn school die het Slim Signaal gebruiken hebben meer prestige dan degenen die het niet doen.'. 
+            This was backtranslated to 'People at my school who use Smart Signal have more prestige than those who do not.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.99.
+            Please improve your current translation based on this information.",Mensen in mijn school die het Slim Signaal gebruiken hebben meer prestige dan degenen die het niet doen.
+2,0.9613611348992948,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Mensen in mijn school die het Slim Signaal gebruiken hebben meer prestige dan degenen die het niet gebruiken.'. 
+            This was backtranslated to 'People at my school who use Slim Signal have more prestige than those who don't.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.96.
+            Please improve your current translation based on this information.",Mensen in mijn school die het Slim Signaal gebruiken hebben meer prestige dan degenen die het niet gebruiken.
+3,0.9907028227607309,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Mensen in mijn school die het Slim Signaal gebruiken hebben meer prestige dan degenen die dat niet doen.'. 
+            This was backtranslated to 'People at my school who use Smart Signal have more prestige than those who don't.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.99.
+            Please improve your current translation based on this information.",Mensen in mijn school die het Slim Signaal gebruiken hebben meer prestige dan degenen die dat niet doen.
+4,0.8094407403948127,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Mensen in mijn school die het Slim Signaal gebruiken hebben meer prestige dan degenen die dat niet doen.'. 
+            This was backtranslated to 'People at my school who use Smart Signal have more prestige than those who don't.
+
+(Note: ""Slim Signaal"" is used in Dutch as a playful or inventive term, possibly referring to some form of communication technology with added flair—similarly translated into English here.)'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.81.
+            Please improve your current translation based on this information.",Mensen in mijn school die het Slim Signaal gebruiken hebben meer prestige dan degenen die dat niet doen.
+5,0.9623984245127984,"Translate 'Smart Signal' in English as 'Slim Signaal' in Dutch and vice versa.
+Your previous translation was 'Mensen op mijn school die het Slim Signaal gebruiken hebben meer prestige dan degenen die dat niet doen.'. 
+            This was backtranslated to 'People at my school who use Slim Signal have more prestige than those who do not.'.
+            Our expert evaluators have determined that the original and the backtranslation only have a cosine similarity of 0.96.
+            Please improve your current translation based on this information.",Mensen op mijn school die het Slim Signaal gebruiken hebben meer prestige dan degenen die dat niet doen.
